@@ -1,0 +1,26 @@
+/* id = #id name */
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+/* classes = .classname */
+.odd {
+    background-color: pink;
+    font-weight: bold;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* chain class odd and id special together */
+.odd#special {
+    background-color: pink;
+    font-weight: bold;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 40px;
+}
